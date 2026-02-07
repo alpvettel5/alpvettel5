@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alp 👋
+
+🎓 Computer Engineering Student (English Program)  
+💻 Currently learning Java & C#  
+🎮 Interested in Game Development  
+🧠 Curious about AI & UX  
+
+## Goals
+- Improve OOP skills
+- Build small games
+- Learn game engines (Unity / Unreal)
+- Create meaningful projects
+
+> "Stay consistent. Small steps every day."
 
 <!--
 **alpvettel5/alpvettel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
